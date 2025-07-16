@@ -1,0 +1,5 @@
+
+{
+    "mongoURI" : "mongodb+srv://admin123:admin123@checkmate.b7uqb6t.mongodb.net/?retryWrites=true&w=majority&appName=CheckMate",
+    "jwtSecret": "mysecrettoken"
+}
